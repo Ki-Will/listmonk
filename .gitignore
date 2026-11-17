@@ -10,7 +10,6 @@ email-builder/.cache/
 email-builder/yarn.lock
 email-builder/dist/
 static/public/static/altcha.umd.js
-.vscode/
 
 config.toml
 docker-compose.override.yml
@@ -21,3 +20,4 @@ uploads/
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
+config.bat
